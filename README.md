@@ -16,6 +16,7 @@
   - Awiszus, M., Schubert, F., & Rosenhahn, B. (2020, October). TOAD-GAN: Coherent style level generation from a single example
   - Summerville, A., & Mateas, M. (2016). Super Mario as a string: Platformer level generation via lstms
   - Mirgati, N., & Guzdial, M. (2023, August). Joint Level Generation and Translation Using Gameplay Videos. In 2023 IEEE Conference on Games (CoG) (pp. 1-10). IEEE.
+  - Halina, E., & Guzdial, M. (2023). Tree-Based Reconstructive Partitioning: A Novel Low-Data Level Generation Approach. Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, 19(1), 244-254. https://doi.org/10.1609/aiide.v19i1.27520
     
 ## :art: Asset Generation 
   - Saravanan, A., & Guzdial, M. (2022). Pixel vq-vaes for improved pixel art representation
